@@ -1,7 +1,7 @@
 
 # Hi there, I'm Harshit Jain! 👋
 
-🚀 **Aspiring AI/ML Engineer | Software Developer | CS Graduate Student (Fall 2025)**
+🚀 **Aspiring AI/ML Engineer | Software Developer **
 
 I'm a passionate software developer with a strong foundation in **Artificial Intelligence, Machine Learning, Data Structures, and Database Management Systems**. I love solving complex problems and building innovative solutions. Currently, I'm preparing for my **Master's in Computer Science (MSCS) in the USA (Fall 2025)** while enhancing my skills in full-stack development and AI/ML.
 
